@@ -1,15 +1,15 @@
 body {
-    background-color: #D2DAFF;
+    background-color: #D2DAFF; 
 }
 
-hr {
+hr { /* dotted line borders */
     border-style: dotted none none;
     height:0px; 
     width: 10%;
     border-color: grey;
     border-width: 5px;
 }
-h1 {
+h1 { 
     color: #764AF1
 }
 h3 {
